@@ -1,0 +1,11 @@
+timestamp,sensor,temperature_c
+2026-11-12 08:00,Rack-A-Intake,24.5
+2026-11-12 08:00,Rack-B-Intake,25.0
+2026-11-12 09:00,Rack-A-Intake,26.8
+2026-11-12 09:00,Rack-B-Intake,28.1
+2026-11-12 10:00,Rack-A-Intake,29.4
+2026-11-12 10:00,Rack-B-Intake,31.5
+2026-11-12 11:00,Rack-A-Intake,33.2
+2026-11-12 11:00,Rack-B-Intake,32.8
+2026-11-12 12:00,Rack-A-Intake,27.5
+2026-11-12 12:00,Rack-B-Intake,26.0
